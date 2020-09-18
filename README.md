@@ -1,6 +1,6 @@
 # Introduction
 
-**A framework for creating ERP
+*A framework for creating ERP
 
 # Features
 
